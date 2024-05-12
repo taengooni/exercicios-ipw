@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('borboleta.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh; 
+}
+
+h1 {
+    background-color: #852E1B;
+    border: 2px solid #225921;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
