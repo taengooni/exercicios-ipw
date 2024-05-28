@@ -1,3 +1,7 @@
+body {
+    background-color: bisque;
+}
+
 .apresentacao {
     margin: 6%;
     display: flex;
